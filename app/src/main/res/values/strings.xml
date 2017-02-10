@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parcelable_Learning</string>
+
+   <string name="text1">ENTER FIRST NAME</string>
+    <string name="text2">ENTER LAST NAME</string>
+    <string name="text3">ENTER SWEET NAME</string>
+    <string name="text4">CLICK HERE</string>
+    <string name="action_settings">Settings</string>
+</resources>
